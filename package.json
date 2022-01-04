@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/nadiaalamgir21/sql-employee-tracker"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/nadiaalamgir21/sql-employee-tracker/issues"
   },
   "homepage": "",
   "dependencies": {
